@@ -23,6 +23,13 @@ The coded solution for 2,4,5,8,9 were submitted for the partial fulfillment of c
   * Loading the queue: ![Load](Media/MQ_s.png)
   * Deleting items from queue: ![Delete](Media/MQ_s1.png)
   
+**4. [Huffman-coding](Huffman%20-%20Coding)**
+ * [X] Implemeent an algorithm to generate huffman codes for all characters in string.
+ * [X] Generate level order traversal of Huffman tree.
+ * [X] Encode the string with huffman code.
+ * [ ] Generate a decoder function to decode the encoded string
+ * ![Huffman Tree and Code generation](Media/HC1.png)
+ 
 **3. [Hash function relation on tableSize and baseNumber](Best%20Hash%20Function)**
  * [X] Implement parser,hash function and profiler to compare the best values of baseNumber and tableSize for linear hash depending on tableSize and baseNumber.
  * [ ] Implement a hash table.
